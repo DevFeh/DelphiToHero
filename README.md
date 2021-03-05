@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Uma Simples aplicação seguindo o curso Delphi do Zero to Hero do Canal Thulio Bittencourt.
+  Uma Simples aplicação seguindo o curso <a hre="https://www.youtube.com/watch?v=zChvMKjmUeY" target="_blank">Delphi do Zero to Hero</a> do Canal <a href="https://www.youtube.com/watch?v=zChvMKjmUeY" target="_blank">Thulio Bittencourt</a>.
 </p>
 
 <h4 align="center"> 
@@ -44,6 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Delphi][DelphiUrl]**
 
 ###### **Dependências**
+- **[Boss Delphi][BossUrl]**
 - **[Router4Delphi][Router4DUrl]**
 
 > Veja o [boss.json](https:www.github.com/DevFeh/DelphiToHero/blob/main/package.json)
@@ -58,10 +59,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h2 id="licenca">📝 Licença</h2>
 
-Este projeto esta sobre a licença [MIT](https://github.com/DevFeh/DelphiToHero/blob/main/LICENSE).
+Este repositório esta sobre a licença [MIT](https://github.com/DevFeh/DelphiToHero/blob/main/LICENSE).
 
 
-Feito por Feh's 👋 Entre em contato!
+Repositório criado por Feh's 👋 Entre em contato!
 
 <p>
 	<img src="https://img.shields.io/static/v1?label=WhatsApp&message=%2B55%20(65)%209.9237-4615&style=for-the-badge&color=yellowgreen&logo=whatsapp" alt="Feh's Discord Tag"/>
